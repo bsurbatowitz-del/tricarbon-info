@@ -6,13 +6,12 @@ for iPhone and Ubuntu.
 Website: https://bsurbatowitz-del.github.io/tricarbon-info/ · [What's new](https://bsurbatowitz-del.github.io/tricarbon-info/whats-new.html) · [How to test](https://bsurbatowitz-del.github.io/tricarbon-info/testing.html) ·
 [Support](https://bsurbatowitz-del.github.io/tricarbon-info/support.html) · [Privacy policy](https://bsurbatowitz-del.github.io/tricarbon-info/privacy.html)
 
-## What's new in version 1.1.1
+## What's new in version 1.1.2
 
-- TestFlight now shows this "What's new" list under "What to Test" for every build
-- More → About: "Website and support" and "Privacy policy" open the new public TriCarbon site (bsurbatowitz-del.github.io/tricarbon-info)
-- Public site with the full description, What's new, how to test, App Store texts, support and privacy policy
+- TriCarbon is now an iPhone app (on iPad it runs in iPhone mode) – no changes to features or calculations
+- App Store listing completed for review: phone contact, links to the public TriCarbon site, "What's new" in TestFlight
 
-**Please test:** Open More → About and tap "Website and support" and "Privacy policy" – both pages must open. Check that TestFlight shows this list under What to Test. Everything else is unchanged from 1.1.0 – a quick check of Results, an export and Settings (language, Light / Dark / Automatic) is enough.
+**Please test:** Install build from TestFlight and check that it opens and works as before: More → Load sample event, look at Results, export a PDF, switch language and Light / Dark / Automatic in More → Settings. If you have an iPad, check that TriCarbon installs and runs there in iPhone mode.
 
 ## About the app
 

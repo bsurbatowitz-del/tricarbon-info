@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2
+- TriCarbon is now an iPhone app (on iPad it runs in iPhone mode) – no changes to features or calculations
+- App Store listing completed for review: phone contact, links to the public TriCarbon site, "What's new" in TestFlight
+
 ## 1.1.1
 - TestFlight now shows the "What's new" list under "What to Test" for every build
 - More → About: "Website and support" and "Privacy policy" open the new public TriCarbon site (bsurbatowitz-del.github.io/tricarbon-info)
