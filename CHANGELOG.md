@@ -19,6 +19,11 @@
 - Saved events, editable emission factor library
 - Settings: language English / Crnogorski, appearance Automatic / Light / Dark
 
-## Ubuntu desktop
+## Ubuntu desktop 1.2.0
+- TriCarbon is now available as a snap from the Snap Store, with automatic updates
+- Event files are still saved in your home folder: ~/TriCarbon/events
+- Command line: "tricarbon --version" and "tricarbon --selftest" (checks that calculations, exports and the window work)
+
+## Ubuntu desktop (earlier)
 - 1.1.0 – English / Montenegrin interface and reports
 - 1.0.0 – first version
