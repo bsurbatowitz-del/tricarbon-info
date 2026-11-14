@@ -6,12 +6,16 @@ for iPhone and Ubuntu.
 Website: https://bsurbatowitz-del.github.io/tricarbon-info/ · [What's new](https://bsurbatowitz-del.github.io/tricarbon-info/whats-new.html) · [How to test](https://bsurbatowitz-del.github.io/tricarbon-info/testing.html) ·
 [Support](https://bsurbatowitz-del.github.io/tricarbon-info/support.html) · [Privacy policy](https://bsurbatowitz-del.github.io/tricarbon-info/privacy.html)
 
-## What's new in version 1.1.2
+## What's new in version 1.3.0
 
-- TriCarbon is now an iPhone app (on iPad it runs in iPhone mode) – no changes to features or calculations
-- App Store listing completed for review: phone contact, links to the public TriCarbon site, "What's new" in TestFlight
+- Emission factors updated to the official UK 2026 values where they could be checked (travel, flights, fuels, electricity, water, waste, freight); unchecked rows are labelled
+- About 70 new inventory items: more food and drink, flight classes, metro, minibus, e-bike, helicopter and boat fuel, wetsuits, tents, stages, barriers, bike racks, timing, LED screens, pool hire, live stream, more recycling routes
+- Because factors changed, the sample event now totals 76.15 t (was 82.95 t); your saved events keep their own factors until you choose Re-apply to inventory
+- English is now the default language; Montenegrin is one tap away in the language menu
+- Link to the TriSport website (www.trisport.me)
+- This What's new screen, shown once after each update
 
-**Please test:** Install build from TestFlight and check that it opens and works as before: More → Load sample event, look at Results, export a PDF, switch language and Light / Dark / Automatic in More → Settings. If you have an iPad, check that TriCarbon installs and runs there in iPhone mode.
+**Please test:** Open the app: the What's new screen should appear once. Load the sample event (it should total 76.15 t), add a few of the new inventory items (search for pasta, helicopter, tent, wetsuit), open More → About and tap the TriSport website link, and check More → Settings: language is English unless you change it; Light / Dark / Automatic still work. Events you saved earlier keep their old factors until you use Factor library → Re-apply to inventory.
 
 ## About the app
 
@@ -22,7 +26,7 @@ FOR RACE ORGANISERS AND SUSTAINABILITY LEADS
 • Enter competitors, spectators, staff, volunteers and officials, the event days and your reporting boundary
 
 CARBON INVENTORY
-• About 110 ready-made emission factors: travel by car, coach, train and plane, hotel nights, meals and aid-station food (bananas, gels, isotonic drinks), mains and bottled water, grid electricity and generators, safety boats, jet skis and lead vehicles, shirts, medals, swim caps and cups, waste by treatment route, freight, portable toilets, equipment hire and refrigerants
+• About 180 ready-made emission factors: travel by car, coach, train and plane, hotel nights, meals and aid-station food (bananas, gels, isotonic drinks), mains and bottled water, grid electricity and generators, safety boats, jet skis and lead vehicles, shirts, medals, swim caps and cups, waste by treatment route, freight, portable toilets, equipment hire and refrigerants
 • Add your own items and factors; mark each line as measured, calculated, estimated or proxy
 • Travel estimator: turn a quick survey (60% by car, 200 km round trip, 1.8 per car…) into inventory lines
 
@@ -49,7 +53,7 @@ YOUR WAY
 PRIVATE
 • No account, no tracking, no ads. Your events stay on your iPhone.
 
-Built-in emission factors are indicative (aligned with UK DESNZ/DEFRA 2024 and published life-cycle averages). For audited reporting replace them with your country's official factors in the factor library.
+Built-in emission factors are indicative (aligned with UK DESNZ/DEFRA 2026 and published life-cycle averages). For audited reporting replace them with your country's official factors in the factor library.
 
 ## How to try it
 

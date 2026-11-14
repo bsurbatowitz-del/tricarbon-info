@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.3.0
+- Emission factors updated to the official UK 2026 values where they could be checked (travel, flights, fuels, electricity, water, waste, freight); unchecked rows are labelled
+- About 70 new inventory items: more food and drink, flight classes, metro, minibus, e-bike, helicopter and boat fuel, wetsuits, tents, stages, barriers, bike racks, timing, LED screens, pool hire, live stream, more recycling routes
+- Because factors changed, the sample event now totals 76.15 t (was 82.95 t); your saved events keep their own factors until you choose Re-apply to inventory
+- English is now the default language; Montenegrin is one tap away in the language menu
+- Link to the TriSport website (www.trisport.me)
+- This What's new screen, shown once after each update
+
+## Ubuntu desktop 1.3.0
+- Emission factors updated to the official UK 2026 values where they could be checked (travel, flights, fuels, electricity, water, waste, freight); unchecked rows are labelled
+- About 70 new inventory items: more food and drink, flight classes, metro, minibus, e-bike, helicopter and boat fuel, wetsuits, tents, stages, barriers, bike racks, timing, LED screens, pool hire, live stream, more recycling routes
+- Because factors changed, the sample event now totals 76.15 t (was 82.95 t); your saved events keep their own factors until you choose Re-apply to inventory
+- English is now the default language; Montenegrin is one tap away in the language menu
+- Link to the TriSport website (www.trisport.me)
+- This What's new screen, shown once after each update
+- New on Ubuntu: Light / Dark / Automatic theme (View menu)
+
 ## 1.1.2
 - TriCarbon is now an iPhone app (on iPad it runs in iPhone mode) – no changes to features or calculations
 - App Store listing completed for review: phone contact, links to the public TriCarbon site, "What's new" in TestFlight
