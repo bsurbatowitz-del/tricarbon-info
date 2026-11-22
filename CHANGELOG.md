@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.3.1
+- Added a condition to the terms of use: reports that are shared publicly must name the TriCarbon app as their source and mention the website www.trisport.me
+
+## Ubuntu desktop 1.3.1
+- Added a condition to the terms of use: reports that are shared publicly must name the TriCarbon app as their source and mention the website www.trisport.me
+
+## Windows 1.3.1
+- Added a condition to the terms of use: reports that are shared publicly must name the TriCarbon app as their source and mention the website www.trisport.me
+
+## Windows 1.3.0 – first Windows version
+- First Windows version of TriCarbon – the same calculations, exports and files as the Ubuntu and iPhone apps
+- Light / Dark / Automatic theme (View menu); Automatic follows the Windows app mode, including the title bar
+- Events are saved in Documents\TriCarbon\events, settings in %APPDATA%\TriCarbon
+- PDF reports print Montenegrin letters (č ć đ š ž) with the Windows Segoe UI font
+- Microsoft Store package (.msix), installer (.exe) and portable ZIP
+
 ## 1.3.0
 - Emission factors updated to the official UK 2026 values where they could be checked (travel, flights, fuels, electricity, water, waste, freight); unchecked rows are labelled
 - About 70 new inventory items: more food and drink, flight classes, metro, minibus, e-bike, helicopter and boat fuel, wetsuits, tents, stages, barriers, bike racks, timing, LED screens, pool hire, live stream, more recycling routes

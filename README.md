@@ -6,16 +6,11 @@ for iPhone and Ubuntu.
 Website: https://bsurbatowitz-del.github.io/tricarbon-info/ · [What's new](https://bsurbatowitz-del.github.io/tricarbon-info/whats-new.html) · [How to test](https://bsurbatowitz-del.github.io/tricarbon-info/testing.html) ·
 [Support](https://bsurbatowitz-del.github.io/tricarbon-info/support.html) · [Privacy policy](https://bsurbatowitz-del.github.io/tricarbon-info/privacy.html)
 
-## What's new in version 1.3.0
+## What's new in version 1.3.1
 
-- Emission factors updated to the official UK 2026 values where they could be checked (travel, flights, fuels, electricity, water, waste, freight); unchecked rows are labelled
-- About 70 new inventory items: more food and drink, flight classes, metro, minibus, e-bike, helicopter and boat fuel, wetsuits, tents, stages, barriers, bike racks, timing, LED screens, pool hire, live stream, more recycling routes
-- Because factors changed, the sample event now totals 76.15 t (was 82.95 t); your saved events keep their own factors until you choose Re-apply to inventory
-- English is now the default language; Montenegrin is one tap away in the language menu
-- Link to the TriSport website (www.trisport.me)
-- This What's new screen, shown once after each update
+- Added a condition to the terms of use: reports that are shared publicly must name the TriCarbon app as their source and mention the website www.trisport.me
 
-**Please test:** Open the app: the What's new screen should appear once. Load the sample event (it should total 76.15 t), add a few of the new inventory items (search for pasta, helicopter, tent, wetsuit), open More → About and tap the TriSport website link, and check More → Settings: language is English unless you change it; Light / Dark / Automatic still work. Events you saved earlier keep their old factors until you use Factor library → Re-apply to inventory.
+**Please test:** Export a PDF, an Excel file and a JSON file from the sample event, in English and in Montenegrin. PDF: every page footer has a second line "Generated with TriCarbon - www.trisport.me"; searching the PDF for "publicly published" finds a hidden notice on every page; File properties show TriCarbon as creator. Excel: the workbook has a hidden sheet "Source" (right-click a sheet tab → Unhide) and the notice in its properties. JSON: the file has a "generated_by" block. Importing these files back into TriCarbon still works. The condition itself is on www.trisport.me/tricarbon/.
 
 ## About the app
 
