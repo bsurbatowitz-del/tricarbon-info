@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.3.2
+- New: the app tells you when a newer version is available (at most one check a day of the public version list; nothing about you is sent)
+
+## Ubuntu desktop 1.3.2
+- New: the app tells you when a newer version is available (at most one check a day of the public version list; nothing about you is sent)
+- Help › Check for updates checks right away
+- The snap now has the network permission (only for this check)
+
+## Windows 1.3.2
+- New: the app tells you when a newer version is available (at most one check a day of the public version list; nothing about you is sent)
+- Help › Check for updates checks right away
+
 ## 1.3.1
 - Added a condition to the terms of use: reports that are shared publicly must name the TriCarbon app as their source and mention the website www.trisport.me
 

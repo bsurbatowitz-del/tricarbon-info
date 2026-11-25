@@ -6,11 +6,11 @@ for iPhone and Ubuntu.
 Website: https://bsurbatowitz-del.github.io/tricarbon-info/ · [What's new](https://bsurbatowitz-del.github.io/tricarbon-info/whats-new.html) · [How to test](https://bsurbatowitz-del.github.io/tricarbon-info/testing.html) ·
 [Support](https://bsurbatowitz-del.github.io/tricarbon-info/support.html) · [Privacy policy](https://bsurbatowitz-del.github.io/tricarbon-info/privacy.html)
 
-## What's new in version 1.3.1
+## What's new in version 1.3.2
 
-- Added a condition to the terms of use: reports that are shared publicly must name the TriCarbon app as their source and mention the website www.trisport.me
+- New: the app tells you when a newer version is available (at most one check a day of the public version list; nothing about you is sent)
 
-**Please test:** Export a PDF, an Excel file and a JSON file from the sample event, in English and in Montenegrin. PDF: every page footer has a second line "Generated with TriCarbon - www.trisport.me"; searching the PDF for "publicly published" finds a hidden notice on every page; File properties show TriCarbon as creator. Excel: the workbook has a hidden sheet "Source" (right-click a sheet tab → Unhide) and the notice in its properties. JSON: the file has a "generated_by" block. Importing these files back into TriCarbon still works. The condition itself is on www.trisport.me/tricarbon/.
+**Please test:** Install the update, open the app and wait a few seconds: no banner should appear, because 1.3.2 is the newest version. The banner ("Version X is available" with Update and an x) appears only when a newer version is live; Update opens the App Store page and x hides it for that version. Switch the language to Montenegrin and check the app as usual. Everything else works as in 1.3.1.
 
 ## About the app
 
@@ -54,7 +54,7 @@ Built-in emission factors are indicative (aligned with UK DESNZ/DEFRA 2026 and p
 
 TriCarbon is an offline calculator for the carbon footprint of triathlon and multisport events, with an ISO 14001 environmental aspects register.
 
-No login, no account, no network features, no in-app purchases, no ads, no analytics. Everything the user enters stays on the device.
+No login, no account, no network features (it only checks once a day whether a newer version is available), no in-app purchases, no ads, no analytics. Everything the user enters stays on the device.
 
 How to try it:
 1. Event tab: tap the folder icon → Load sample event (or More → Load sample event).
